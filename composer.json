@@ -1,5 +1,5 @@
 {
-    "name": "sparkworldke/kopokopo-laravel-support-l11",
+    "name": "sparkworldke/kopokopo-laravel-support",
     "description": "A simple package for developers to consume Kopokopo Mpesa API in Laravel 9, 10, 11",
     "homepage": "https://github.com/sparkworldke/kopokopo-laravel-support",
     "keywords": [
