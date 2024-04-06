@@ -7,7 +7,7 @@ A simple package for laravel developers to consume Kopokopo API for laravel 8.
 You can easily install this package using composer and an installation command
 
 ```sh
-composer require patrickmwangi017/laravel-kopokopo
+composer require sparkworldke/kopokopo-laravel-support
 ```
 
 ## Configuration
