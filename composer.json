@@ -1,12 +1,12 @@
 {
-    "name": "sparkworldke/kopokopo-laravel-support",
-    "description": "A simple package for developers to consume Kopokopo Mpesa API in Laravel 9, 10, 11",
-    "homepage": "https://github.com/sparkworldke/kopokopo-laravel-support",
+    "name": "lucasfrankinc/kopokopo-laravel-support",
+    "description": "A simple package for developers to consume Kopokopo Mpesa API in Laravel 9, 10, 11 and 12",
+    "homepage": "https://github.com/lucasfrankinc/kopokopo-laravel-support",
     "keywords": [
         "kopokopo",
         "mpesa",
         "laravel",
-        "patrickmwangi017"
+        "lucasfrankinc"
     ],
     "type": "laravel",
     "license": "MIT",
